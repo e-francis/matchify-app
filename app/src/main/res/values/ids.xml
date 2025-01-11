@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="location_new_york" type="id" />
+    <item name="location_london" type="id" />
+    <item name="location_paris" type="id" />
+    <item name="location_tokyo" type="id" />
+    <item name="location_sydney" type="id" />
+    <item name="gender_male" type="id" />
+    <item name="gender_female" type="id" />
+    <item name="gender_other" type="id" />
+</resources>

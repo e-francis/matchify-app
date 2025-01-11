@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matchify</string>
+
+    <!-- General -->
+    <string name="skip">Skip</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="app_logo">Matchify Logo</string>
+    <string name="create_account">Create Account</string>
+    <string name="back_button">Back Button</string>
+    <string name="login">Login</string>
+
+    <!-- Input Fields -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="passcode">Passcode (6 digits)</string>
+    <string name="confirm_passcode">Confirm Passcode</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="location">Location</string>
+    <string name="interests">Interests (Select up to 5)</string>
+
+    <!-- Profile Picture -->
+    <string name="upload_photo">Upload Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+
+    <!-- Error Messages -->
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_passcode_length">Passcode must be 6 digits</string>
+    <string name="error_passcode_mismatch">Passcodes do not match</string>
+    <string name="error_age_requirement">Must be 18 or older</string>
+    <string name="error_max_interests">Maximum 5 interests allowed</string>
+    <string name="error_image_size">Image size must be less than 5MB</string>
+
+    <!-- Success Messages -->
+    <string name="success_profile_created">Profile created successfully!</string>
+
+    <!-- Accessibility -->
+    <string name="ad_view_pager">Advertisement slideshow</string>
+    <string name="skip_button">Skip advertisements</string>
+    <string name="ad_image">Advertisement image</string>
+    <string name="create_account_button">Create new account</string>
+    <string name="login_button">Login Button</string>
+    <string name="first_name_input">Enter first name</string>
+    <string name="last_name_input">Enter last name</string>
+    <string name="email_input">Enter email address</string>
+    <string name="passcode_input">Enter six digit passcode</string>
+    <string name="confirm_passcode_input">Confirm six digit passcode</string>
+    <string name="date_of_birth_input">Select date of birth</string>
+    <string name="location_dropdown">Select your location</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="upload_photo_button">Upload profile picture</string>
+    <string name="delete_photo_button">Remove profile picture</string>
+    <string name="welcome_message">Welcome message</string>
+    <string name="welcome">Welcome</string>
+    <string name="complete_your_account_setup">Complete Your Account Setup</string>
+    <string name="select_your_interests_max_5">Select Your Interests (Max 5)</string>
+    <string name="gender_drop_down_menu">Gender Drop-down Menu</string>
+    <string name="next">Next</string>
+    <string name="next_button">Next Button</string>
+    <string name="greeting">Greeting</string>
+    <string name="toast_message">Toast Message</string>
+    <string name="status">Status</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="okay_button">Okay button</string>
+    <string name="action_button">Action Button</string>
+    <string name="success_icon">Success Icon</string>
+    <string name="sucess_message">Sucess Message</string>
+    <string name="gender_dropdown">Gender Dropdown</string>
+    <string name="select_your_location">Select your location</string>
+    <string-array name="locations">
+        <item>New York, USA</item>
+        <item>London, UK</item>
+        <item>Paris, France</item>
+        <item>Tokyo, Japan</item>
+        <item>Sydney, Australia</item>
+    </string-array>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
